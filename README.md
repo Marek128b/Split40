@@ -4,6 +4,8 @@
 - [ErgoSplit50](#ergosplit50)
   - [Description](#description)
   - [Price](#price)
+  - [Firmware](#firmware)
+    - [installing tools](#installing-tools)
 
 ## Description 
 
@@ -25,3 +27,12 @@ This keyboard layout is better for ergonomics as it accommodates the different s
 | 1x     	| USB-C 2.0 1m Kabel    	| Barrybase 	| €2,92  	| €5,95    	| €2,90  	|             	    |
 | 1x     	| 110 Gateron G PRO RED 	| Keychron  	| €19,-  	| €15,-    	| €34,-  	|             	    |
 |        	|                       	|           	| TOTAL: 	| €24,28   	| €48,-  	| **€72,28**      	|
+
+https://www.tablesgenerator.com/markdown_tables <br>
+http://builder.swillkb.com/
+
+## Firmware 
+
+ ### installing tools
+ 
+  1. install the [QMK Msys](https://msys.qmk.fm/guide.html#next-steps)
