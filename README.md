@@ -28,6 +28,15 @@ This keyboard layout is better for ergonomics as it accommodates the different s
 | 1x     	| 110 Gateron G PRO RED 	| Keychron  	| €19,-  	| €15,-    	| €34,-  	|             	    |
 |        	|                       	|           	| TOTAL: 	| €24,28   	| €48,-  	| **€72,28**      	|
 
+
+Product links: 
+1. https://www.berrybase.at/en/waveshare-rp2040-zero-ohne-header
+2. https://www.berrybase.at/en/usb-c-2.0-sync-ladekabel-a-stecker-c-stecker-schwarz?number=45735
+3. https://www.keychron.com/collections/all-switches/products/gateron-switch-set?variant=40119134355545
+
+<br>
+Building firmware:
+
 https://www.tablesgenerator.com/markdown_tables <br>
 http://builder.swillkb.com/
 
