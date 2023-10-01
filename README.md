@@ -5,7 +5,6 @@
   - [Description](#description)
   - [Price](#price)
   - [Firmware](#firmware)
-    - [installing tools](#installing-tools)
 
 ## Description 
 
@@ -13,8 +12,8 @@ The ErgoSplit50 is a 50% split keyboard which means that the keyboard is in two 
 The Keyboard has a ortho linear key layout which is more ergonomic than the staggered key layout (normal layout).
 
 ___
-Here you can see both half of the keyboard built using [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/af8061c8664737f3924f8287ba400e2a) <br>
-<img src="hardware/keyboard 2d Files/ergosplit-50.png"> <br> 
+Here you can see both half of the keyboard built using [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/dc776eb6e80d4ed39cddeabd265ff729) <br>
+<img src="hardware/keyboard 2d Files/ergosplit-50-1.png"> <br> 
 ___
 This keyboard layout is better for ergonomics as it accommodates the different sizes of your fingers. 
 
@@ -30,9 +29,9 @@ This keyboard layout is better for ergonomics as it accommodates the different s
 
 
 Product links: 
-1. https://www.berrybase.at/en/waveshare-rp2040-zero-ohne-header
-2. https://www.berrybase.at/en/usb-c-2.0-sync-ladekabel-a-stecker-c-stecker-schwarz?number=45735
-3. https://www.keychron.com/collections/all-switches/products/gateron-switch-set?variant=40119134355545
+1. [RP2040-uC](https://www.berrybase.at/en/waveshare-rp2040-zero-ohne-header)
+2. [USB-C cable](https://www.berrybase.at/en/usb-c-2.0-sync-ladekabel-a-stecker-c-stecker-schwarz?number=45735)
+3. [Gateron red Switches](https://www.keychron.com/collections/all-switches/products/gateron-switch-set?variant=40119134355545)
 
 <br>
 Building firmware:
@@ -41,7 +40,3 @@ https://www.tablesgenerator.com/markdown_tables <br>
 http://builder.swillkb.com/
 
 ## Firmware 
-
- ### installing tools
- 
-  1. install the [QMK Msys](https://msys.qmk.fm/guide.html#next-steps)
