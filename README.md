@@ -5,6 +5,7 @@
   - [Description](#description)
   - [Price](#price)
   - [Firmware](#firmware)
+    - [Keyboards RGB](#keyboards-rgb)
 
 ## Description 
 
@@ -40,3 +41,9 @@ https://www.tablesgenerator.com/markdown_tables <br>
 http://builder.swillkb.com/
 
 ## Firmware 
+The firmware i used is called [QMK](https://docs.qmk.fm/#/) which is a popular keyboard firmware for wired Keyboards. The reason i am using this firmware is that it works more reliable and doesn't have the problems i faced when i was trying to use [KMK](http://kmkfw.io).
+
+### Keyboards RGB
+This keyboard uses a microcontroller that has a on-board ws2812-2020
+ rgb led that is used for signaling on which layer you are, if caps lock is enabled, if num lock is enabled and if scroll lock is enabled. <br>
+
