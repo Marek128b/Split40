@@ -4,8 +4,10 @@
         "Ergogen",
         "ergosplit",
         "fritzing",
+        "ergosplit",
         "Gateron",
         "Kabel",
-        "Keychron"
+        "Keychron",
+        "microcontroller"
     ]
 }
