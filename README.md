@@ -11,8 +11,8 @@ The ErgoSplit50 is a 50% split keyboard which means that the keyboard is in two 
 The Keyboard has a ortho linear key layout which is more ergonomic than the staggered key layout (normal layout).
 
 ___
-Here you can see both half of the keyboard built using [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/af8061c8664737f3924f8287ba400e2a) <br>
-<img src="hardware/keyboard 2d Files/ergosplit-50.png"> <br> 
+Here you can see both half of the keyboard built using [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/dc776eb6e80d4ed39cddeabd265ff729) <br>
+<img src="hardware/img/split-test.jpg"> <br> 
 ___
 This keyboard layout is better for ergonomics as it accommodates the different sizes of your fingers. 
 
