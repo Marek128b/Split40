@@ -44,6 +44,6 @@ http://builder.swillkb.com/
 The firmware i used is called [QMK](https://docs.qmk.fm/#/) which is a popular keyboard firmware for wired Keyboards. The reason i am using this firmware is that it works more reliable and doesn't have the problems i faced when i was trying to use [KMK](http://kmkfw.io).
 
 ### Keyboards RGB
-This keyboard uses a microcontroller that has a on-board ws2812-2020
+This keyboard uses a [RP2040](https://docs.qmk.fm/#/platformdev_rp2040?id=raspberry-pi-rp2040) microcontroller that has a on-board [ws2812-2020](https://docs.qmk.fm/#/ws2812_driver)
  rgb led that is used for signaling on which layer you are, if caps lock is enabled, if num lock is enabled and if scroll lock is enabled. <br>
 
