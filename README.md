@@ -23,18 +23,19 @@ This keyboard layout is better for ergonomics as it accommodates the different s
 
 ## Price
 
-| AMOUNT 	| ITEM                  	| SUPPLIER  	| PRICE  	| SHIPPING 	| PRICE  	| PRICE Per 	| PRICE TOTAL     	|
-|--------	|-----------------------	|-----------	|--------	|----------	|--------	|-----------	|-----------------	|
-| 2x     	| RP2040-USB-C          	| Barrybase 	| €5,55  	| €3,33    	| €11,10 	| €5,55     	| €72,28          	|
-| 1x     	| USB-C 2.0 1m Kabel    	| Barrybase 	| €2,92  	| €5,95    	| €2,90  	| €2,90     	|                 	|
-| 1x     	| 110 Gateron G PRO RED 	| Keychron  	| €19,-  	| €15,-    	| €34,-  	| €13,60    	| PRICE TOTAL Per 	|
-|        	|                       	|           	| TOTAL: 	| €24,28   	| €48,-  	|           	| **€22,05**          	|
-
+| AMOUNT 	| ITEM                   	| SUPPLIER        	| PRICE  	| SHIPPING 	| PRICE  	| PRICE Per 	| PRICE TOTAL     	|
+|--------	|------------------------	|-----------------	|--------	|----------	|--------	|-----------	|-----------------	|
+| 2x     	| RP2040-USB-C           	| Barrybase       	| €5,55  	| €3,33    	| €11,10 	| €5,55     	| €72,28          	|
+| 1x     	| USB-C 2.0 1m Kabel     	| Barrybase       	| €2,92  	| €5,95    	| €2,90  	| €2,90     	|                 	|
+| 1x     	| 110 Gateron G PRO RED  	| Keychron        	| €19,-  	| €15,-    	| €34,-  	| €13,60    	|                 	|
+| 1x     	| cable sleeve 5m black  	| RS - components 	| €8,82  	|          	| €8,82  	| €1,77     	| PRICE TOTAL per 	|
+|        	|                        	|                 	| TOTAL: 	| €24,28   	| €48,-  	|           	| **€23,82**      	|
 
 Product links: 
 1. [RP2040-uC](https://www.berrybase.at/en/waveshare-rp2040-zero-ohne-header)
 2. [USB-C cable](https://www.berrybase.at/en/usb-c-2.0-sync-ladekabel-a-stecker-c-stecker-schwarz?number=45735)
 3. [Gateron red Switches](https://www.keychron.com/collections/all-switches/products/gateron-switch-set?variant=40119134355545)
+4. [Cable sleeve](https://at.rs-online.com/web/p/kabelschlauche-/0408209)
 
 <br>
 Building firmware:
