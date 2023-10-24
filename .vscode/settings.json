@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "Keymap"
         "Barrybase",
         "Ergogen",
         "ergosplit",
@@ -8,10 +9,7 @@
         "Gateron",
         "Kabel",
         "Keychron",
-<<<<<<< HEAD
         "renderv"
-=======
         "microcontroller"
->>>>>>> ba13c0e0001c4694a3580e34268295fad4423885
     ]
 }
