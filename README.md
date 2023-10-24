@@ -23,12 +23,12 @@ This keyboard layout is better for ergonomics as it accommodates the different s
 
 ## Price
 
-| AMOUNT 	| ITEM                  	| SUPPLIER  	| PRICE  	| SHIPPING 	| PRICE  	| PRICE TOTAL 	    |
-|--------	|-----------------------	|-----------	|--------	|----------	|--------	|------------------ |
-| 2x     	| RP2040-USB-C          	| Barrybase 	| €5,55  	| €3,33    	| €11,10 	|             	    |
-| 1x     	| USB-C 2.0 1m Kabel    	| Barrybase 	| €2,92  	| €5,95    	| €2,90  	|             	    |
-| 1x     	| 110 Gateron G PRO RED 	| Keychron  	| €19,-  	| €15,-    	| €34,-  	|             	    |
-|        	|                       	|           	| TOTAL: 	| €24,28   	| €48,-  	| **€72,28**      	|
+| AMOUNT 	| ITEM                  	| SUPPLIER  	| PRICE  	| SHIPPING 	| PRICE  	| PRICE Per 	| PRICE TOTAL     	|
+|--------	|-----------------------	|-----------	|--------	|----------	|--------	|-----------	|-----------------	|
+| 2x     	| RP2040-USB-C          	| Barrybase 	| €5,55  	| €3,33    	| €11,10 	| €5,55     	| €72,28          	|
+| 1x     	| USB-C 2.0 1m Kabel    	| Barrybase 	| €2,92  	| €5,95    	| €2,90  	| €2,90     	|                 	|
+| 1x     	| 110 Gateron G PRO RED 	| Keychron  	| €19,-  	| €15,-    	| €34,-  	| €13,60    	| PRICE TOTAL Per 	|
+|        	|                       	|           	| TOTAL: 	| €24,28   	| €48,-  	|           	| **€22,05**          	|
 
 
 Product links: 
