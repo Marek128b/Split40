@@ -16,7 +16,7 @@ ___
 Here you can see both half of the keyboard built using [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/dc776eb6e80d4ed39cddeabd265ff729) <br>
 
 <img src="hardware/img/split-test.jpg" width=100%> <br> 
-<img src="./hardware/img/renderv1%20split44%20keyboard.png" width=100%> <br>
+<img src="./hardware/img/renderv2%20split44%20keyboard.png" width=100%> <br>
 ___
 This keyboard layout is better for ergonomics as it accommodates the different sizes of your fingers. 
 
