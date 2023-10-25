@@ -1,11 +1,11 @@
 # ergosplit44
 
-![ergosplit44](imgur.com image replace me!)
-
+![ergosplit44](https://i.imgur.com/RhRIe2a.png)
+*imgur.com image replace me!
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Marek128b](https://github.com/Marek128b)
-* Hardware Supported: *The PCBs, controllers supported*
+* Hardware Supported: RP2040
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
