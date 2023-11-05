@@ -5,6 +5,7 @@
   - [3D Files](#3d-files)
   - [2D Files](#2d-files)
   - [Circuit](#circuit)
+  - [Connector Pinout](#connector-pinout)
 
 ## 3D Files
 <img src="./img/ErgoSplit50%20v125.png" width=100%> <br>
@@ -16,3 +17,6 @@
 
 ## Circuit
 <img src="./img/fritzing%20ergosplit44.png" width=100%>
+
+## Connector Pinout
+<img src="./img/right%20pins%20ergosplit44%20connector.png" width=100%>
