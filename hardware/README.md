@@ -5,6 +5,7 @@
   - [3D Files](#3d-files)
   - [2D Files](#2d-files)
   - [Circuit](#circuit)
+    - [Physical layout](#physical-layout)
   - [Connector Pinout](#connector-pinout)
 
 ## 3D Files
@@ -17,6 +18,11 @@
 
 ## Circuit
 <img src="./img/fritzing%20ergosplit44.png" width=100%>
+
+### Physical layout
+<img src="./img/WhatsApp Image 2023-11-06 at 10.37.52 (1).jpeg" width=100%>
+
+<img src="./img/WhatsApp Image 2023-11-06 at 10.37.52.jpeg" width=100%>
 
 ## Connector Pinout
 <img src="./img/right%20pins%20ergosplit44%20connector.png" width=100%>
