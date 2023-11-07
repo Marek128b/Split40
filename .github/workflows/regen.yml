@@ -12,7 +12,7 @@ on:
 jobs:
   regen:
     env: 
-      working-directory: ./software
+      working-directory: ./Software/
     runs-on: ubuntu-latest
 
     container: ghcr.io/qmk/qmk_cli
