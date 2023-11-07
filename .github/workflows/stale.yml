@@ -11,6 +11,8 @@ on:
 
 jobs:
   stale:
+    env: 
+      working-directory: ./software
     runs-on: ubuntu-latest
     steps:
       - uses: actions/stale@v8

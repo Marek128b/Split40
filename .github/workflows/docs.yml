@@ -16,6 +16,8 @@ on:
 
 jobs:
   generate:
+    env: 
+      working-directory: ./software
     runs-on: ubuntu-latest
     container: ghcr.io/qmk/qmk_cli
 

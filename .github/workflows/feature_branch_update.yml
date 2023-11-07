@@ -10,6 +10,8 @@ on:
 
 jobs:
   feature_branch_update:
+    env: 
+      working-directory: ./software
     runs-on: ubuntu-latest
 
     if: github.repository == 'qmk/qmk_firmware'
