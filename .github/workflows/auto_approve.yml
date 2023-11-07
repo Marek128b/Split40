@@ -9,7 +9,7 @@ on:
 jobs:
   automatic_approve:
     env: 
-      working-directory: ./software
+      working-directory: ./Software/
     runs-on: ubuntu-latest
 
     if: github.repository == 'qmk/qmk_firmware'
