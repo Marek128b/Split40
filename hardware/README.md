@@ -7,6 +7,8 @@
   - [Circuit](#circuit)
     - [Physical layout](#physical-layout)
   - [Connector Pinout](#connector-pinout)
+    - [Right side](#right-side)
+    - [Left side](#left-side)
 
 ## 3D Files
 <img src="./img/ErgoSplit50%20v125.png" width=100%> <br>
@@ -25,4 +27,9 @@
 <img src="./img/WhatsApp Image 2023-11-06 at 10.37.52.jpeg" width=100%>
 
 ## Connector Pinout
+
+### Right side
 <img src="./img/right%20pins%20ergosplit44%20connector.png" width=100%>
+
+### Left side
+<img src="./img/left%20pins%20ergosplit44%20connector.png" width=100%>
