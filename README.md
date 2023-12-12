@@ -6,6 +6,7 @@
   - [Price](#price)
   - [Firmware](#firmware)
     - [Keyboards RGB](#keyboards-rgb)
+    - [Upload Firmware](#upload-firmware)
 
 ## Description 
 
@@ -50,3 +51,5 @@ The firmware i used is called [QMK](https://docs.qmk.fm/#/) which is a popular k
 This keyboard uses a microcontroller that has a on-board ws2812-2020
  rgb led that is used for signaling on which layer you are, if caps lock is enabled, if num lock is enabled and if scroll lock is enabled. <br>
 
+### Upload Firmware
+to compile and upload the firmware move to the working directory of your `qmk/qmkfirmware` and compile and upload the firmware using the `qmk flash -kb hardwired/marek128b/ergosplit40 -km vial` command. You can only compile the firmware using the `qmk compile -kb handwired/marek128b/ergosplit40 -km vial` command. With `-km` you can select the keymap you want to compile or flash with the keyboard. The `-kb` part selects the keyboard you want to work with.
